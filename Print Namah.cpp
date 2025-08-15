@@ -1,3 +1,5 @@
+// To print Namah Shivaya in C++ //
+
 #include <iostream>
 using namespace std;
 int main()
